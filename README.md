@@ -18,6 +18,16 @@ events intervening on covariates, then asks to forecast a future event that eith
 
 Varying the number of covariates, historical events, and event length yields **37,665 tasks**.
 
+<p align="center">
+  <img src="assets/whatifbench_tasks.gif" alt="A WhatIf-Bench task: a history of events setting the covariates, then a Replay or Novel future to forecast" width="100%">
+</p>
+
+<p align="center">
+  <em>Each WhatIf-Bench task shows a history of events that set the covariates, and asks a model
+  to forecast the target under a future event that either repeats seen covariate values (Replay)
+  or goes beyond them (Novel).</em>
+</p>
+
 We find that:
 
 - Every model forecasts well on Replay futures (48–85% skill), but drops sharply on Novel futures (−7–50%).
