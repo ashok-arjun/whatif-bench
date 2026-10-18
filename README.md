@@ -30,7 +30,7 @@ Varying the number of covariates, historical events, and event length yields **3
 
 We find that:
 
-- Every model forecasts well on Replay futures (48–85% skill), but drops sharply on Novel futures (−7–50%).
+- Every model forecasts well on Replay futures (48 to 85% skill), but drops sharply on Novel futures (−7 to +50%).
 - On Novel futures, skill falls steadily as events set more covariates at once, for every model.
 - More past events in the history raise skill on Novel futures for most models, but gaps between
   models remain.
