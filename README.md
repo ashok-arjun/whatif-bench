@@ -41,7 +41,7 @@ method's results on the [leaderboard](https://huggingface.co/spaces/arjunashok/W
 ## Coming soon
 
 - **Evaluation code** — this repository: run any forecasting method over the benchmark and score it.
-- **Dataset** — the 37,665 tasks, on the [Hugging Face Hub](https://huggingface.co/datasets/arjunashok/WhatIf-Bench).
+- **Dataset** — the 37,665 tasks, on HuggingFace.
 
 ## Citation
 
