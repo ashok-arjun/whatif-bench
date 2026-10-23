@@ -46,8 +46,10 @@ method's results on the [leaderboard](https://huggingface.co/spaces/arjunashok/W
 ## Citation
 
 ```bibtex
-@misc{whatifbench,
-  title  = {WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting},
-  note   = {Coming soon}
+@article{ashok2026whatif,
+  title={WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting},
+  author={Ashok, Arjun and Parmar, Mihir and Goyal, Palash and Mishra, Bhavana Dalvi and Li, Chun-Liang and Rish, Irina and Drouin, Alexandre and Yoon, Jinsung and Pfister, Tomas},
+  journal={arXiv preprint arXiv:2610.26582},
+  year={2026}
 }
 ```
